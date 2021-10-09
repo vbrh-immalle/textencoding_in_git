@@ -1,0 +1,4 @@
+*.txt           text
+*-crlf.txt      text eol=crlf
+*-lf.txt        text eol=lf
+*-utf16-*       text working-tree-encoding=UTF-16
